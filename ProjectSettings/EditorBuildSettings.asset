@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/Scenes/GameOpening.unity
+    guid: 82b351ec4ef6c47d7b277891af86cd18
+  - enabled: 1
+    path: Assets/Project/Scenes/LevelMenu.unity
+    guid: 896ca2f4ea6ac4250a27f2ba951011b1
+  - enabled: 1
+    path: Assets/Project/Scenes/LevelIntro.unity
+    guid: f428af0e2eb78ec4f9afe637bbded5c6
+  - enabled: 1
+    path: Assets/Project/Scenes/Level1.unity
+    guid: d64e51afab578484bb89f3ff7f8cfcee
+  - enabled: 1
+    path: Assets/Project/Scenes/Level2.unity
+    guid: 72ef95faa94ec4ad8857627bc6f1c8c2
+  - enabled: 1
+    path: Assets/Project/Scenes/Level3.unity
+    guid: 207308dcc040d429087a5425f77449de
+  - enabled: 1
+    path: Assets/Project/Scenes/Level4.unity
+    guid: 8a79c19061a505e498fedfbe7beb52bc
+  - enabled: 1
+    path: Assets/Project/Scenes/Level5.unity
+    guid: 9ecd9d5715e6d4a3da55b46003f87bf4
+  - enabled: 1
+    path: Assets/Project/Scenes/Level6.unity
+    guid: daaee9bb75a1341e6b124602c83c8a13
+  - enabled: 1
+    path: Assets/Project/Scenes/Level7.unity
+    guid: f5f9c67f21f6c44149f4b1cc2297387b
+  - enabled: 1
+    path: Assets/Project/Scenes/LevelIntro Fog Of War.unity
+    guid: 84f2b6b02f6174d7b92f83cd05f4c19f
+  - enabled: 1
+    path: Assets/Project/Scenes/Level1 Fog Of War.unity
+    guid: d410f59ed81794e9e942465c1f78ec1e
+  - enabled: 1
+    path: Assets/Project/Scenes/Level2 Fog Of War.unity
+    guid: 6ef26805e820c47c2ae836888bf2cfd9
+  - enabled: 1
+    path: Assets/Project/Scenes/Level3 Fog Of War.unity
+    guid: 037b259d4f12e4dc6b48b991c7b5d150
+  - enabled: 1
+    path: Assets/Project/Scenes/Level4 Fog Of War.unity
+    guid: 177ddcdb700f44a0c9b4215a34839dc2
+  - enabled: 1
+    path: Assets/Project/Scenes/Level5 Fog Of War.unity
+    guid: 8c0efb5d526ec49adaf432e1d98cda6c
+  - enabled: 1
+    path: Assets/Project/Scenes/Level6 Fog Of War.unity
+    guid: 46cdbe2e366654a93ac02918c189d481
+  - enabled: 1
+    path: Assets/Project/Scenes/Level7 Fog Of War.unity
+    guid: ffe4ebf517c7f4ffca34077840f0aea2
+  - enabled: 1
+    path: Assets/Project/Scenes/Epilogue.unity
+    guid: 9c298b6f6cbe8a14eadf9ea1cc216457
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
